@@ -1,2 +1,2 @@
 # projeto2-dataanalisystestjupyter
-Exemplo de uma filtragem e análise gráfica de uma base de dados fictícia para fins didáticos.
+Exemplo de uma filtragem e análise gráfica de uma base de dados fictícia para fins didáticos, utilizando a IDE Jupyter Notebook e as bibliotecas pandas e Plotly Express.
